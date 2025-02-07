@@ -1,4 +1,4 @@
-# FinancialCrm
+#  C# Eğitim Kampı Bitirme Projesi FinancialCrm
 
 FinancialCrm, finansal işlemleri ve kullanıcı yönetimini kolaylaştıran bir CRM (Müşteri İlişkileri Yönetimi) uygulamasıdır. Bu proje, kullanıcıların finansal verilerini düzenlemesi ve yönetmesi için geliştirilmiştir.
 
@@ -23,7 +23,7 @@ FinancialCrm, finansal işlemleri ve kullanıcı yönetimini kolaylaştıran bir
 
 ### Kategoriler Ekranı
 ![Image](https://github.com/user-attachments/assets/c633ec7c-c34a-48b4-a266-2e717f82661a)
-- Kullanıcı adı ve şifre ile sisteme giriş yapılan ekran. Kullanıcılar hesabına erişmek için burada kimlik doğrulaması yapar.
+-  Kullanıcılar burada kategori ekleme, listeleme, silme ve güncelleme gibi kategori işlemlerini gerçekleştirebilir.
 ### Banka Ekranı
 ![Image](https://github.com/user-attachments/assets/3b1f7421-b61b-4495-991d-1734570e7d0b)
 - Banka hesaplarının görüntülenebildiği ekran. Kullanıcılar, banka hesaplarıyla ilişkili tüm işlemleri burada takip edebilir.
